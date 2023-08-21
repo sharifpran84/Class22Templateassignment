@@ -8,7 +8,7 @@
 .hero{
    background: #f9f9ff;
 }
-.btn{
+.btn1{
    background: #8490ff;
    color: white;
    margin-top: 25px;
@@ -34,4 +34,21 @@
 }
 .aboutContent h6{
     font-weight: 500;
+}
+
+.card-image {
+   width: 120px;
+   height: auto;
+   margin-top: -55px;
+   margin-left: 12px;
+}
+.pc{
+   background: #f9f9ff;
+   height: 100px;
+   width: 100px;
+   line-height: 100px;
+   margin:  0 auto;
+   border-radius: 50%;
+   display: inline-block;
+   font-size: 30px;
 }
