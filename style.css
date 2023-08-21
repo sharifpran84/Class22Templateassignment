@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+   font-family: 'Montserrat', sans-serif;
+}
+
+/* Hero section */
+.hero{
+   background: #f9f9ff;
+}
+.btn{
+   background: #8490ff;
+   color: white;
+   margin-top: 25px;
+}
+.heroContent{
+   margin-top: 130px;
+}
+.heroContent h5{
+   font-size: 1.5rem;
+   font-weight: 400;
+}
+.heroContent h3{
+   font-size: 2.8rem;
+   font-weight: 600;
+   margin: 25px 0;
+}
+.heroContent h6{margin-top: 25px;}
+
+/* About Section */
+.aboutContent h2{
+    font-size: 2.8rem;
+    font-weight: 500;
+}
+.aboutContent h6{
+    font-weight: 500;
+}
